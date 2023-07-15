@@ -16,8 +16,8 @@ section#login {
     left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
-    width: 60vw;
-    height: 80vh;
+    width: 250px;
+    height: 500px;
     background-color: rgb(255, 255, 255);
     border-radius: 25px;
     text-align: center;
