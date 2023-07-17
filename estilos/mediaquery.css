@@ -21,7 +21,6 @@
         float: right;
         width: 55%;
         height: 100%;
-
     }
 }
 
@@ -45,14 +44,12 @@
         width: 57%;
         height: 100%;
     }
-
+    
     div#formulario > h1 {
         font-size: 3em;
-
     }
 
     div#formulario > p {
         font-size: 2em;
-        te
     }
 }

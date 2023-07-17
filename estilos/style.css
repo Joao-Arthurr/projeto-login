@@ -89,6 +89,8 @@ input#ent {
     color: white;
     margin-top: 5px;
     font-weight: bold;
+    border: none;
+    font-size: 1em;
 }
 
 input#esq {
@@ -98,6 +100,11 @@ input#esq {
     border: 2px solid #5a9a84;
     margin-top: 5px;
     color: #5a9a84;
+    
+}
+
+input#ent:hover, input#esq:hover {
+    cursor: pointer;
 }
 
 
